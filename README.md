@@ -14,10 +14,13 @@ The following **required** functionality is completed:
 - [x] User can take a photo, add a caption, and post it to "Instagram".
 
 ## Video Walkthrough
+![](./Walkthrough.gif)
 
-## Notes
+#### Registered User
+![](./user_login.PNG)
 
-Describe any challenges encountered while building the app.
+#### Post
+![](./Post.PNG)
 
 ## Open-source libraries used
 
